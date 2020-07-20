@@ -1,11 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7730f398-31f0-4b95-84a0-b5a07c5c4502" name="Default Changelist" comment="" />
+    <list default="true" id="7730f398-31f0-4b95-84a0-b5a07c5c4502" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="design-pattern" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Enum" />
+        <option value="package.json" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -15,6 +41,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZGDkcR9qoqPk0rfUgwreGNQDD1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,29 +51,109 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/inaction/metrics" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/target/classes" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="designpattern.behavioral.template.demo5" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\GitHub\design-pattern\src\main\resources\mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="opensourced.unix.demo2" />
+      <recent name="opensourced.jdk.demo7" />
+      <recent name="opensourced.jdk.demo4" />
+      <recent name="opensourced.jdk.demo3" />
+      <recent name="opensourced.jdk.demo2" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\GitHub\design-pattern\src\main\java\inaction\metrics" />
-      <recent name="F:\GitHub\design-pattern\src\main\java\inaction" />
-      <recent name="F:\GitHub\design-pattern\src\main\java\designpattern\creational\prototype" />
-      <recent name="F:\GitHub\design-pattern\src\main\java\designpattern\creational\builder" />
-      <recent name="F:\GitHub\design-pattern\src\main\resources" />
+      <recent name="F:\GitHub\design-pattern\target\classes" />
+      <recent name="F:\GitHub\design-pattern\src\main\java\inaction\ratelimiter\ver2\rule" />
+      <recent name="F:\GitHub\design-pattern\src\main\java\opensourced\guava\demo4\deeplyimmutable" />
+      <recent name="F:\GitHub\design-pattern\src\main\java\designpattern\behavioral\visitor\demo5" />
+      <recent name="F:\GitHub\design-pattern\src\main\java\designpattern\behavioral\visitor\demo4" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="inaction.idempotence.prepare.mode2" />
+      <recent name="opensourced.guava.demo4" />
+      <recent name="opensourced.guava.demo3.wrapper" />
+      <recent name="opensourced.jdk.demo2" />
+      <recent name="designpattern.structural.composite.demo3" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designpattern.creational.factory.f4didemo.Demo" />
+  <component name="RunManager" selected="Application.MybatisDemo">
+    <configuration name="DarkDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inaction.darklaunch.v1.DarkDemo" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designpattern.creational.factory.f4didemo.*" />
+          <option name="PATTERN" value="inaction.darklaunch.v1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inaction.darklaunch.v2.Demo" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inaction.darklaunch.v2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FPDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="opensourced.guava.demo5.FPDemo" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="opensourced.guava.demo5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="opensourced.mybatis.demo1.MybatisDemo" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="opensourced.mybatis.demo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RateLimiter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inaction.ratelimiter.ver1.RateLimiter" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inaction.ratelimiter.ver1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,7 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MybatisDemo" />
         <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.DarkDemo" />
+        <item itemvalue="Application.RateLimiter" />
+        <item itemvalue="Application.FPDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -80,7 +193,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584456681205</updated>
-      <workItem from="1584456683042" duration="1835000" />
+      <workItem from="1584456683042" duration="2445000" />
+      <workItem from="1590744612669" duration="1181000" />
+      <workItem from="1590816775510" duration="4783000" />
+      <workItem from="1590973647923" duration="13627000" />
+      <workItem from="1591062237516" duration="32927000" />
+      <workItem from="1591318661322" duration="16134000" />
+      <workItem from="1591493648366" duration="14310000" />
+      <workItem from="1591666447575" duration="15448000" />
+      <workItem from="1591752550727" duration="15954000" />
+      <workItem from="1591917443392" duration="20528000" />
+      <workItem from="1592272125480" duration="100432000" />
+      <workItem from="1593227683068" duration="86719000" />
+      <workItem from="1593937365642" duration="56034000" />
+      <workItem from="1594430019945" duration="9200000" />
+      <workItem from="1594523342632" duration="7000000" />
+      <workItem from="1594601671910" duration="9884000" />
     </task>
     <servers />
   </component>
@@ -88,33 +216,146 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="742" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1584457626539">
+    <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1594631109183">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="742" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1584457626539" />
-    <state width="1867" height="262" key="GridCell.Tab.0.bottom" timestamp="1584458443967">
+    <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1594631109183" />
+    <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1590820490210" />
+    <state x="742" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1591187955659">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1867" height="262" key="GridCell.Tab.0.bottom/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1584458443967" />
-    <state width="1867" height="262" key="GridCell.Tab.0.center" timestamp="1584458443967">
+    <state x="742" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1591187955659" />
+    <state x="658" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1593495087396">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1867" height="262" key="GridCell.Tab.0.center/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1584458443967" />
-    <state width="1867" height="262" key="GridCell.Tab.0.left" timestamp="1584458443967">
+    <state x="658" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1593495087396" />
+    <state x="627" y="218" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1592231088004">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1867" height="262" key="GridCell.Tab.0.left/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1584458443967" />
-    <state width="1867" height="262" key="GridCell.Tab.0.right" timestamp="1584458443967">
+    <state x="627" y="218" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1592231088004" />
+    <state width="1191" height="582" key="DebuggerActiveHint" timestamp="1594608033695">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1867" height="262" key="GridCell.Tab.0.right/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1584458443967" />
-    <state x="377" y="102" key="Maven.ArtifactSearchDialog" timestamp="1584458303610">
+    <state width="1191" height="582" key="DebuggerActiveHint/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1594608033695" />
+    <state width="1867" height="408" key="GridCell.Tab.0.bottom" timestamp="1594633011524">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="377" y="102" key="Maven.ArtifactSearchDialog/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1584458303610" />
-    <state x="614" y="203" width="675" height="655" key="StructurePopup" timestamp="1584458278357">
+    <state width="904" height="254" key="GridCell.Tab.0.bottom/-1080.0.1080.1890/0.0.1920.1050@-1080.0.1080.1890" timestamp="1590987970677" />
+    <state width="1867" height="408" key="GridCell.Tab.0.bottom/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1594633011524" />
+    <state width="1867" height="408" key="GridCell.Tab.0.center" timestamp="1594633011524">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="614" y="203" width="675" height="655" key="StructurePopup/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1584458278357" />
+    <state width="904" height="254" key="GridCell.Tab.0.center/-1080.0.1080.1890/0.0.1920.1050@-1080.0.1080.1890" timestamp="1590987970676" />
+    <state width="1867" height="408" key="GridCell.Tab.0.center/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1594633011524" />
+    <state width="1867" height="408" key="GridCell.Tab.0.left" timestamp="1594633011524">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="904" height="254" key="GridCell.Tab.0.left/-1080.0.1080.1890/0.0.1920.1050@-1080.0.1080.1890" timestamp="1590987970676" />
+    <state width="1867" height="408" key="GridCell.Tab.0.left/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1594633011524" />
+    <state width="1867" height="408" key="GridCell.Tab.0.right" timestamp="1594633011524">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="904" height="254" key="GridCell.Tab.0.right/-1080.0.1080.1890/0.0.1920.1050@-1080.0.1080.1890" timestamp="1590987970677" />
+    <state width="1867" height="408" key="GridCell.Tab.0.right/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1594633011524" />
+    <state x="377" y="102" key="Maven.ArtifactSearchDialog" timestamp="1594344551712">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="377" y="102" key="Maven.ArtifactSearchDialog/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1594344551712" />
+    <state x="348" y="83" key="SettingsEditor" timestamp="1592733794041">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="348" y="83" key="SettingsEditor/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1592733794041" />
+    <state width="296" height="234" key="ShowFilterAction_Filter_Popup" timestamp="1591712866273">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="296" height="234" key="ShowFilterAction_Filter_Popup/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1591712866273" />
+    <state x="614" y="203" width="675" height="655" key="StructurePopup" timestamp="1594633549018">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="614" y="203" width="675" height="655" key="StructurePopup/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1594633549018" />
+    <state x="651" y="183" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593051791790">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="651" y="183" key="com.intellij.testIntegration.createTest.CreateTestDialog/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1593051791790" />
+    <state x="417" y="204" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1594452136066">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="417" y="204" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1594452136066" />
+    <state x="587" y="227" width="746" height="596" key="find.popup" timestamp="1594602862678">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="587" y="227" width="746" height="596" key="find.popup/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1594602862678" />
+    <state x="587" y="227" width="746" height="596" key="find.popup/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1590819796222" />
+    <state x="539" y="15" width="840" height="1034" key="search.everywhere.popup" timestamp="1594633531610">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="539" y="15" width="840" height="1034" key="search.everywhere.popup/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1594633531610" />
+    <state x="539" y="15" width="840" height="1034" key="search.everywhere.popup/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1590819947356" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/designpattern/behavioral/iterator/demo2/Demo.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/designpattern/behavioral/iterator/demo4/Demo.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://C:/Program Files (x86)/Java/jdk1.8.0_181/src.zip!/java/util/ArrayList.java</url>
+          <line>858</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/designpattern/behavioral/interpreter/demo4/AlertRuleInterpreter.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/designpattern/behavioral/interpreter/demo4/OrExpression.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/designpattern/behavioral/interpreter/demo4/AlertRuleInterpreter.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/designpattern/structural/composite/demo2/Demo.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/inaction/ratelimiter/ver1/RateLimiter.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/inaction/ratelimiter/ver1/RateLimiter.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/inaction/ratelimiter/ver1/RateLimiter.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/inaction/ratelimiter/ver1/RateLimiter.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/opensourced/mybatis/demo1/MybatisDemo.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

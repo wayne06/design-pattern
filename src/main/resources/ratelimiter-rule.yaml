@@ -1,0 +1,17 @@
+# 对应 RuleConfig
+configs:
+    # 对应 AppRuleConfig
+    - appId: app-1
+      limits:
+          # 对应 ApiLimit
+          - api: /v1/user
+            limit: 100
+            unit: 60
+          - api: /v1/order
+            limit: 50
+    - appId: app-2
+      limits:
+          - api: /v1/user
+            limit: 50
+          - api: /v1/order
+            limit: 50
