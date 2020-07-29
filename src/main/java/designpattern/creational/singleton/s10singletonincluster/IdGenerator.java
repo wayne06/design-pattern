@@ -8,7 +8,8 @@ public class IdGenerator {
 
     private static IdGenerator instance;
 
-    private static SharedObjectsStorage storage = new FileSharedObjectStorage("/user/xxx/xx");
+    private static SharedObjectsStorage storage =
+            new FileSharedObjectStorage("/user/xxx/xx");
 
     private static DistributedLock lock = new DistributedLock();
 
