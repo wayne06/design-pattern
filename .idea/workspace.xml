@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7730f398-31f0-4b95-84a0-b5a07c5c4502" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/designpattern/creational/singleton/s10singletonincluster/IdGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpattern/creational/singleton/s10singletonincluster/IdGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designpattern/creational/singleton/s10singletonincluster/IdGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/designpattern/creational/singleton/s10singletonincluster/IdGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mybatis.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/opensourced/mybatis/demo2/SqlCostTimeInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/opensourced/mybatis/demo2/SqlCostTimeInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop/theory/fProgramToAnInterface/theory/Memo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/theory/fProgramToAnInterface/theory/Memo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,11 +98,11 @@
       <recent name="F:\GitHub\design-pattern\src\main\java\designpattern\behavioral\visitor\demo4" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="oop.theory.fProgramToAnInterface.action.v2" />
       <recent name="oop.theory.eInterfaceAndAbstractClass.aCompare.interfaceClass" />
       <recent name="oop.theory.eInterfaceAndAbstractClass.aCompare" />
       <recent name="oop.theory.polymorphism.demo2" />
       <recent name="oop.theory.abstraction" />
-      <recent name="inaction.idempotence.prepare.mode2" />
     </key>
   </component>
   <component name="RunManager" selected="Application.MainApp">
@@ -225,7 +222,7 @@
       <workItem from="1595295430339" duration="54895000" />
       <workItem from="1595811789710" duration="31655000" />
       <workItem from="1595951524322" duration="577000" />
-      <workItem from="1595982400674" duration="11521000" />
+      <workItem from="1595982400674" duration="16593000" />
     </task>
     <servers />
   </component>
@@ -246,10 +243,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1595989469853">
+    <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1596008394696">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1595989469853" />
+    <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596008394696" />
     <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1590820490210" />
     <state x="742" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1595834987756">
       <screen x="0" y="0" width="1920" height="1050" />
