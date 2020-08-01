@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7730f398-31f0-4b95-84a0-b5a07c5c4502" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oop/action/wallet/Theory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/action/wallet/Theory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/designpattern/behavioral/template/demo5/HelloServletTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/designpattern/behavioral/template/demo5/HelloServletTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,11 +31,11 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit4 Test Class" />
-        <option value="Enum" />
         <option value="package.json" />
         <option value="AnnotationType" />
         <option value="spring-beans.schema" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -67,7 +67,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/oop/theory/gCompositionBeforeInherit/demo3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/oop/action/wallet/rich" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -84,25 +84,25 @@
       <recent name="F:\GitHub\design-pattern\src\main\resources\mapper" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="oop.action.wallet.rich.demo2" />
+      <recent name="oop.action.wallet.rich" />
+      <recent name="oop.action.wallet.anemic" />
       <recent name="opensourced.unix.demo2" />
       <recent name="opensourced.jdk.demo7" />
-      <recent name="opensourced.jdk.demo4" />
-      <recent name="opensourced.jdk.demo3" />
-      <recent name="opensourced.jdk.demo2" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\GitHub\design-pattern\src\main\java\oop\action\wallet\rich" />
       <recent name="F:\GitHub\design-pattern\src\main\java\oop\theory\gCompositionBeforeInherit\demo3" />
       <recent name="F:\GitHub\design-pattern\target\classes" />
       <recent name="F:\GitHub\design-pattern\src\main\java\inaction\ratelimiter\ver2\rule" />
       <recent name="F:\GitHub\design-pattern\src\main\java\opensourced\guava\demo4\deeplyimmutable" />
-      <recent name="F:\GitHub\design-pattern\src\main\java\designpattern\behavioral\visitor\demo5" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="oop.action.wallet.rich" />
+      <recent name="oop.action.wallet.anemic" />
       <recent name="oop.theory.gCompositionBeforeInherit.demo1" />
       <recent name="oop.theory.fProgramToAnInterface.action.v2" />
       <recent name="oop.theory.eInterfaceAndAbstractClass.aCompare.interfaceClass" />
-      <recent name="oop.theory.eInterfaceAndAbstractClass.aCompare" />
-      <recent name="oop.theory.polymorphism.demo2" />
     </key>
   </component>
   <component name="RunManager" selected="Application.MainApp">
@@ -222,7 +222,8 @@
       <workItem from="1595295430339" duration="54895000" />
       <workItem from="1595811789710" duration="31655000" />
       <workItem from="1595951524322" duration="577000" />
-      <workItem from="1595982400674" duration="35237000" />
+      <workItem from="1595982400674" duration="47849000" />
+      <workItem from="1596246983485" duration="5909000" />
     </task>
     <servers />
   </component>
@@ -243,10 +244,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1596019064340">
+    <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1596252227912">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596019064340" />
+    <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596252227912" />
     <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1590820490210" />
     <state x="742" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1596019957487">
       <screen x="0" y="0" width="1920" height="1050" />
