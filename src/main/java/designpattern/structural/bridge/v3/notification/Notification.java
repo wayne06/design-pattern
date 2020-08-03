@@ -1,9 +1,6 @@
 package designpattern.structural.bridge.v3.notification;
 
 import designpattern.structural.bridge.v3.sender.MessageSender;
-import priciple.openclose.v4.NotificationEmergencyLevel;
-
-import java.util.List;
 
 /**
  * @author wayne

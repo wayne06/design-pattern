@@ -3,7 +3,96 @@
   <component name="ChangeListManager">
     <list default="true" id="7730f398-31f0-4b95-84a0-b5a07c5c4502" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oop/action/wallet/anemic/VirtualWalletController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/action/wallet/anemic/VirtualWalletController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designpattern/structural/bridge/v3/notification/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpattern/structural/bridge/v3/notification/Notification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop/action/auth/ApiAuthenticator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/action/auth/code/ApiAuthenticator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop/action/auth/ApiRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/action/auth/code/ApiRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop/action/auth/AuthToken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/action/auth/code/AuthToken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop/action/auth/CredentialStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/action/auth/code/CredentialStorage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop/action/auth/DefaultApiAuthenticator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/action/auth/code/DefaultApiAuthenticator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop/action/auth/EncryptUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/action/auth/code/EncryptUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop/action/auth/MysqlCredentialStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/action/auth/code/MysqlCredentialStorage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop/action/auth/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/action/auth/code/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/mqdemo/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/mqdemo/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/mqdemo/formatter/Formatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/mqdemo/formatter/Formatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/mqdemo/formatter/JsonFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/mqdemo/formatter/JsonFormatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/mqdemo/formatter/MessageFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/mqdemo/formatter/MessageFormatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/mqdemo/mq/KafkaMessageQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/mqdemo/mq/KafkaMessageQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/mqdemo/mq/MessageQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/mqdemo/mq/MessageQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/mqdemo/mq/RocketMessageQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/mqdemo/mq/RocketMessageQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v1/Alert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v1/Alert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v1/AlertRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v1/AlertRule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v1/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v1/Notification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v1/NotificationEmergencyLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v1/NotificationEmergencyLevel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v2/Alert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v2/Alert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v2/AlertRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v2/AlertRule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v2/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v2/Notification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v2/NotificationEmergencyLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v2/NotificationEmergencyLevel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v3/Alert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/Alert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v3/AlertRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/AlertRule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v3/ApiStatInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/ApiStatInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v3/ApplicationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/ApplicationContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v3/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v3/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/Notification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v3/NotificationEmergencyLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/NotificationEmergencyLevel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v3/handler/AlertHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/handler/AlertHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v3/handler/ErrorAlertHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/handler/ErrorAlertHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v3/handler/TpsAlertHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/handler/TpsAlertHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v4/Alert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/Alert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v4/AlertRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/AlertRule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v4/ApiStatInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/ApiStatInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v4/ApplicationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/ApplicationContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v4/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v4/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/Notification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v4/NotificationEmergencyLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/NotificationEmergencyLevel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v4/handler/AlertHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/handler/AlertHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v4/handler/ErrorAlertHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/handler/ErrorAlertHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v4/handler/TimeoutAlertHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/handler/TimeoutAlertHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v4/handler/TpsAlertHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/handler/TpsAlertHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/designpattern/structural/bridge/v3/notification/Notification.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/designpattern/structural/bridge/v3/notification/Notification.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oop/action/auth/ApiAuthenticator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oop/action/auth/ApiRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oop/action/auth/AuthToken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oop/action/auth/CredentialStorage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oop/action/auth/DefaultApiAuthenticator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oop/action/auth/EncryptUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oop/action/auth/MysqlCredentialStorage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oop/action/auth/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/mqdemo/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/mqdemo/formatter/Formatter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/mqdemo/formatter/JsonFormatter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/mqdemo/formatter/MessageFormatter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/mqdemo/mq/KafkaMessageQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/mqdemo/mq/MessageQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/mqdemo/mq/RocketMessageQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v1/Alert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v1/AlertRule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v1/Notification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v1/NotificationEmergencyLevel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v2/Alert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v2/AlertRule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v2/Notification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v2/NotificationEmergencyLevel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v3/Alert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v3/AlertRule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v3/ApiStatInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v3/ApplicationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v3/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v3/Notification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v3/NotificationEmergencyLevel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v3/handler/AlertHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v3/handler/ErrorAlertHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v3/handler/TpsAlertHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v4/Alert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v4/AlertRule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v4/ApiStatInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v4/ApplicationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v4/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v4/Notification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v4/NotificationEmergencyLevel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v4/handler/AlertHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v4/handler/ErrorAlertHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v4/handler/TimeoutAlertHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v4/handler/TpsAlertHandler.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,11 +120,11 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit4 Test Class" />
-        <option value="package.json" />
         <option value="AnnotationType" />
         <option value="spring-beans.schema" />
         <option value="Enum" />
         <option value="Interface" />
+        <option value="package.json" />
         <option value="Class" />
       </list>
     </option>
@@ -105,26 +194,13 @@
       <recent name="oop.theory.fProgramToAnInterface.action.v2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.Serialization">
     <configuration name="AuthToken" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.action.auth.AuthToken" />
+      <option name="MAIN_CLASS_NAME" value="oop.action.auth.code.AuthToken" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.action.auth.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inaction.darklaunch.v2.Demo" />
-      <module name="design-pattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inaction.darklaunch.v2.*" />
+          <option name="PATTERN" value="oop.action.auth.code.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,12 +247,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.action.auth.Test" />
+    <configuration name="Serialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="priciple.theory.aSRP.Serialization" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.action.auth.*" />
+          <option name="PATTERN" value="priciple.theory.aSRP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.action.auth.code.Test" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.action.auth.code.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,11 +275,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Serialization" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.AuthToken" />
         <item itemvalue="Application.MainApp" />
         <item itemvalue="Application.MybatisDemo" />
-        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +326,7 @@
       <workItem from="1595811789710" duration="31655000" />
       <workItem from="1595951524322" duration="577000" />
       <workItem from="1595982400674" duration="47849000" />
-      <workItem from="1596246983485" duration="20227000" />
+      <workItem from="1596246983485" duration="28777000" />
     </task>
     <servers />
   </component>
@@ -258,15 +347,15 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1596419576239">
+    <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1596442714261">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596419576239" />
+    <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596442714261" />
     <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1590820490210" />
-    <state x="742" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1596019957487">
+    <state x="742" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1596441735564">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="742" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596019957487" />
+    <state x="742" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596441735564" />
     <state x="658" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596419759698">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -275,34 +364,34 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="627" y="218" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1592231088004" />
-    <state width="1191" height="582" key="DebuggerActiveHint" timestamp="1596425553048">
+    <state width="1191" height="582" key="DebuggerActiveHint" timestamp="1596443688934">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1191" height="582" key="DebuggerActiveHint/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596425553048" />
+    <state width="1191" height="582" key="DebuggerActiveHint/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596443688934" />
     <state x="1074" y="231" key="FileChooserDialogImpl" timestamp="1596420634182">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1074" y="231" key="FileChooserDialogImpl/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596420634182" />
-    <state width="1700" height="229" key="GridCell.Tab.0.bottom" timestamp="1596426190122">
+    <state width="1157" height="348" key="GridCell.Tab.0.bottom" timestamp="1596443693382">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="904" height="254" key="GridCell.Tab.0.bottom/-1080.0.1080.1890/0.0.1920.1050@-1080.0.1080.1890" timestamp="1590987970677" />
-    <state width="1700" height="229" key="GridCell.Tab.0.bottom/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596426190122" />
-    <state width="1700" height="229" key="GridCell.Tab.0.center" timestamp="1596426190122">
+    <state width="1157" height="348" key="GridCell.Tab.0.bottom/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596443693382" />
+    <state width="1157" height="348" key="GridCell.Tab.0.center" timestamp="1596443693382">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="904" height="254" key="GridCell.Tab.0.center/-1080.0.1080.1890/0.0.1920.1050@-1080.0.1080.1890" timestamp="1590987970676" />
-    <state width="1700" height="229" key="GridCell.Tab.0.center/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596426190122" />
-    <state width="1700" height="229" key="GridCell.Tab.0.left" timestamp="1596426190122">
+    <state width="1157" height="348" key="GridCell.Tab.0.center/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596443693382" />
+    <state width="1157" height="348" key="GridCell.Tab.0.left" timestamp="1596443693382">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="904" height="254" key="GridCell.Tab.0.left/-1080.0.1080.1890/0.0.1920.1050@-1080.0.1080.1890" timestamp="1590987970676" />
-    <state width="1700" height="229" key="GridCell.Tab.0.left/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596426190122" />
-    <state width="1700" height="229" key="GridCell.Tab.0.right" timestamp="1596426190122">
+    <state width="1157" height="348" key="GridCell.Tab.0.left/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596443693382" />
+    <state width="1157" height="348" key="GridCell.Tab.0.right" timestamp="1596443693382">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="904" height="254" key="GridCell.Tab.0.right/-1080.0.1080.1890/0.0.1920.1050@-1080.0.1080.1890" timestamp="1590987970677" />
-    <state width="1700" height="229" key="GridCell.Tab.0.right/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596426190122" />
+    <state width="1157" height="348" key="GridCell.Tab.0.right/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596443693382" />
     <state x="377" y="102" key="Maven.ArtifactSearchDialog" timestamp="1594344551712">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
