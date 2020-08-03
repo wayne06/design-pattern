@@ -33,7 +33,7 @@ public class VirtualWalletController {
      * @param walletId
      * @param amount
      */
-    public void credit(Long walletId, BigDecimal amount) {
+    public void credit(Long walletId, BigDecimal amount) throws InvalidAmountException {
         virtualWalletService.credit(walletId, amount);
     }
 
@@ -46,7 +46,7 @@ public class VirtualWalletController {
     public void transfer(Long fromWalletId, Long toWalletId, BigDecimal amount) {
         try {
             virtualWalletService.transfer(fromWalletId, toWalletId, amount);
-        } catch (Exception e) {
+        } catch (Exception | InvalidAmountException e) {
             e.printStackTrace();
         }
     }

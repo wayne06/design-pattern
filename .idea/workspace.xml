@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7730f398-31f0-4b95-84a0-b5a07c5c4502" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/designpattern/behavioral/template/demo5/HelloServletTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/designpattern/behavioral/template/demo5/HelloServletTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop/action/wallet/anemic/VirtualWalletController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/action/wallet/anemic/VirtualWalletController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +34,8 @@
         <option value="package.json" />
         <option value="AnnotationType" />
         <option value="spring-beans.schema" />
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -98,20 +98,20 @@
       <recent name="F:\GitHub\design-pattern\src\main\java\opensourced\guava\demo4\deeplyimmutable" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="oop.action.auth" />
       <recent name="oop.action.wallet.rich" />
       <recent name="oop.action.wallet.anemic" />
       <recent name="oop.theory.gCompositionBeforeInherit.demo1" />
       <recent name="oop.theory.fProgramToAnInterface.action.v2" />
-      <recent name="oop.theory.eInterfaceAndAbstractClass.aCompare.interfaceClass" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainApp">
-    <configuration name="DarkDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inaction.darklaunch.v1.DarkDemo" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="AuthToken" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.action.auth.AuthToken" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inaction.darklaunch.v1.*" />
+          <option name="PATTERN" value="oop.action.auth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,12 +171,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.action.auth.Test" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.action.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.AuthToken" />
         <item itemvalue="Application.MainApp" />
         <item itemvalue="Application.MybatisDemo" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.DarkDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +237,7 @@
       <workItem from="1595811789710" duration="31655000" />
       <workItem from="1595951524322" duration="577000" />
       <workItem from="1595982400674" duration="47849000" />
-      <workItem from="1596246983485" duration="5909000" />
+      <workItem from="1596246983485" duration="20227000" />
     </task>
     <servers />
   </component>
@@ -244,47 +258,51 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1596252227912">
+    <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1596419576239">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596252227912" />
+    <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596419576239" />
     <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1590820490210" />
     <state x="742" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1596019957487">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="742" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596019957487" />
-    <state x="658" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1593495087396">
+    <state x="658" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596419759698">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="658" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1593495087396" />
+    <state x="658" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596419759698" />
     <state x="627" y="218" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1592231088004">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="627" y="218" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1592231088004" />
-    <state width="1191" height="582" key="DebuggerActiveHint" timestamp="1595901269485">
+    <state width="1191" height="582" key="DebuggerActiveHint" timestamp="1596425553048">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1191" height="582" key="DebuggerActiveHint/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1595901269485" />
-    <state width="1155" height="165" key="GridCell.Tab.0.bottom" timestamp="1595949756142">
+    <state width="1191" height="582" key="DebuggerActiveHint/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596425553048" />
+    <state x="1074" y="231" key="FileChooserDialogImpl" timestamp="1596420634182">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1074" y="231" key="FileChooserDialogImpl/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596420634182" />
+    <state width="1700" height="229" key="GridCell.Tab.0.bottom" timestamp="1596426190122">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="904" height="254" key="GridCell.Tab.0.bottom/-1080.0.1080.1890/0.0.1920.1050@-1080.0.1080.1890" timestamp="1590987970677" />
-    <state width="1155" height="165" key="GridCell.Tab.0.bottom/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1595949756142" />
-    <state width="1155" height="165" key="GridCell.Tab.0.center" timestamp="1595949756142">
+    <state width="1700" height="229" key="GridCell.Tab.0.bottom/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596426190122" />
+    <state width="1700" height="229" key="GridCell.Tab.0.center" timestamp="1596426190122">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="904" height="254" key="GridCell.Tab.0.center/-1080.0.1080.1890/0.0.1920.1050@-1080.0.1080.1890" timestamp="1590987970676" />
-    <state width="1155" height="165" key="GridCell.Tab.0.center/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1595949756142" />
-    <state width="1155" height="165" key="GridCell.Tab.0.left" timestamp="1595949756141">
+    <state width="1700" height="229" key="GridCell.Tab.0.center/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596426190122" />
+    <state width="1700" height="229" key="GridCell.Tab.0.left" timestamp="1596426190122">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="904" height="254" key="GridCell.Tab.0.left/-1080.0.1080.1890/0.0.1920.1050@-1080.0.1080.1890" timestamp="1590987970676" />
-    <state width="1155" height="165" key="GridCell.Tab.0.left/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1595949756141" />
-    <state width="1155" height="165" key="GridCell.Tab.0.right" timestamp="1595949756142">
+    <state width="1700" height="229" key="GridCell.Tab.0.left/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596426190122" />
+    <state width="1700" height="229" key="GridCell.Tab.0.right" timestamp="1596426190122">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="904" height="254" key="GridCell.Tab.0.right/-1080.0.1080.1890/0.0.1920.1050@-1080.0.1080.1890" timestamp="1590987970677" />
-    <state width="1155" height="165" key="GridCell.Tab.0.right/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1595949756142" />
+    <state width="1700" height="229" key="GridCell.Tab.0.right/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596426190122" />
     <state x="377" y="102" key="Maven.ArtifactSearchDialog" timestamp="1594344551712">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -309,10 +327,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="417" y="204" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1595644808194" />
-    <state x="673" y="17" width="774" height="991" key="find.popup" timestamp="1596020041770">
+    <state x="673" y="17" width="774" height="991" key="find.popup" timestamp="1596425978579">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="673" y="17" width="774" height="991" key="find.popup/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596020041770" />
+    <state x="673" y="17" width="774" height="991" key="find.popup/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596425978579" />
     <state x="587" y="227" width="746" height="596" key="find.popup/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1590819796222" />
     <state x="539" y="15" width="840" height="1034" key="search.everywhere.popup" timestamp="1596020011149">
       <screen x="0" y="0" width="1920" height="1050" />
