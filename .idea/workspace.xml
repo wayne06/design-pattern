@@ -2,97 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7730f398-31f0-4b95-84a0-b5a07c5c4502" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert3/Alert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert4/Alert.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/designpattern/structural/bridge/v3/notification/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpattern/structural/bridge/v3/notification/Notification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oop/action/auth/ApiAuthenticator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/action/auth/code/ApiAuthenticator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oop/action/auth/ApiRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/action/auth/code/ApiRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oop/action/auth/AuthToken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/action/auth/code/AuthToken.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oop/action/auth/CredentialStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/action/auth/code/CredentialStorage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oop/action/auth/DefaultApiAuthenticator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/action/auth/code/DefaultApiAuthenticator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oop/action/auth/EncryptUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/action/auth/code/EncryptUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oop/action/auth/MysqlCredentialStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/action/auth/code/MysqlCredentialStorage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oop/action/auth/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/action/auth/code/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/mqdemo/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/mqdemo/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/mqdemo/formatter/Formatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/mqdemo/formatter/Formatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/mqdemo/formatter/JsonFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/mqdemo/formatter/JsonFormatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/mqdemo/formatter/MessageFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/mqdemo/formatter/MessageFormatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/mqdemo/mq/KafkaMessageQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/mqdemo/mq/KafkaMessageQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/mqdemo/mq/MessageQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/mqdemo/mq/MessageQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/mqdemo/mq/RocketMessageQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/mqdemo/mq/RocketMessageQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v1/Alert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v1/Alert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v1/AlertRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v1/AlertRule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v1/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v1/Notification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v1/NotificationEmergencyLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v1/NotificationEmergencyLevel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v2/Alert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v2/Alert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v2/AlertRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v2/AlertRule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v2/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v2/Notification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v2/NotificationEmergencyLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v2/NotificationEmergencyLevel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v3/Alert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/Alert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v3/AlertRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/AlertRule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v3/ApiStatInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/ApiStatInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v3/ApplicationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/ApplicationContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v3/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v3/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/Notification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v3/NotificationEmergencyLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/NotificationEmergencyLevel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v3/handler/AlertHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/handler/AlertHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v3/handler/ErrorAlertHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/handler/ErrorAlertHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v3/handler/TpsAlertHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/handler/TpsAlertHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v4/Alert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/Alert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v4/AlertRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/AlertRule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v4/ApiStatInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/ApiStatInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v4/ApplicationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/ApplicationContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v4/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v4/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/Notification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v4/NotificationEmergencyLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/NotificationEmergencyLevel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v4/handler/AlertHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/handler/AlertHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v4/handler/ErrorAlertHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/handler/ErrorAlertHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v4/handler/TimeoutAlertHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/handler/TimeoutAlertHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/openclose/v4/handler/TpsAlertHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/handler/TpsAlertHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designpattern/structural/bridge/v3/notification/Notification.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/designpattern/structural/bridge/v3/notification/Notification.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oop/action/auth/ApiAuthenticator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oop/action/auth/ApiRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oop/action/auth/AuthToken.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oop/action/auth/CredentialStorage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oop/action/auth/DefaultApiAuthenticator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oop/action/auth/EncryptUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oop/action/auth/MysqlCredentialStorage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oop/action/auth/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/mqdemo/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/mqdemo/formatter/Formatter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/mqdemo/formatter/JsonFormatter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/mqdemo/formatter/MessageFormatter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/mqdemo/mq/KafkaMessageQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/mqdemo/mq/MessageQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/mqdemo/mq/RocketMessageQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v1/Alert.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v1/AlertRule.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v1/Notification.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v1/NotificationEmergencyLevel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v2/Alert.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v2/AlertRule.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v2/Notification.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v2/NotificationEmergencyLevel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v3/Alert.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v3/AlertRule.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v3/ApiStatInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v3/ApplicationContext.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v3/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v3/Notification.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v3/NotificationEmergencyLevel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v3/handler/AlertHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v3/handler/ErrorAlertHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v3/handler/TpsAlertHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v4/Alert.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v4/AlertRule.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v4/ApiStatInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v4/ApplicationContext.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v4/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v4/Notification.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v4/NotificationEmergencyLevel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v4/handler/AlertHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v4/handler/ErrorAlertHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v4/handler/TimeoutAlertHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priciple/openclose/v4/handler/TpsAlertHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/Memo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/Memo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/mqdemo/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/mqdemo/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/mqdemo/formatter/Formatter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/mqdemo/formatter/JsonFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/mqdemo/formatter/JsonMessageFormatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/mqdemo/formatter/MessageFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/mqdemo/formatter/ProtoBufMessageFormatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v1/Alert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert1/Alert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v1/AlertRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert1/AlertRule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v1/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert1/Notification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v1/NotificationEmergencyLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert1/NotificationEmergencyLevel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v2/Alert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert2/Alert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v2/AlertRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert2/AlertRule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v2/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert2/Notification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v2/NotificationEmergencyLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert2/NotificationEmergencyLevel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/Alert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/AlertRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert3/AlertRule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/ApiStatInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert3/ApiStatInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/ApplicationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert3/ApplicationContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert3/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert3/Notification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/NotificationEmergencyLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert3/NotificationEmergencyLevel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/handler/AlertHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert3/handler/AlertHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/handler/ErrorAlertHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert3/handler/ErrorAlertHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/handler/TpsAlertHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert3/handler/TpsAlertHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/Alert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/AlertRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert4/AlertRule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/ApiStatInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert4/ApiStatInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/ApplicationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert4/ApplicationContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert4/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert4/Notification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/NotificationEmergencyLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert4/NotificationEmergencyLevel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/handler/AlertHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert4/handler/AlertHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/handler/ErrorAlertHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert4/handler/ErrorAlertHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/handler/TimeoutAlertHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert4/handler/TimeoutAlertHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/handler/TpsAlertHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert4/handler/TpsAlertHandler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,9 +69,9 @@
         <option value="AnnotationType" />
         <option value="spring-beans.schema" />
         <option value="Enum" />
-        <option value="Interface" />
         <option value="package.json" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -326,12 +272,22 @@
       <workItem from="1595811789710" duration="31655000" />
       <workItem from="1595951524322" duration="577000" />
       <workItem from="1595982400674" duration="47849000" />
-      <workItem from="1596246983485" duration="28777000" />
+      <workItem from="1596246983485" duration="35041000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -356,10 +312,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="742" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596441735564" />
-    <state x="658" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596419759698">
+    <state x="658" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596503756314">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="658" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596419759698" />
+    <state x="658" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596503756314" />
     <state x="627" y="218" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1592231088004">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
