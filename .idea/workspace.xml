@@ -2,43 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7730f398-31f0-4b95-84a0-b5a07c5c4502" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert3/Alert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert4/Alert.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/Memo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/Memo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/mqdemo/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/mqdemo/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/mqdemo/formatter/Formatter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/mqdemo/formatter/JsonFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/mqdemo/formatter/JsonMessageFormatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/mqdemo/formatter/MessageFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/mqdemo/formatter/ProtoBufMessageFormatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v1/Alert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert1/Alert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v1/AlertRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert1/AlertRule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v1/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert1/Notification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v1/NotificationEmergencyLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert1/NotificationEmergencyLevel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v2/Alert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert2/Alert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v2/AlertRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert2/AlertRule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v2/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert2/Notification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v2/NotificationEmergencyLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert2/NotificationEmergencyLevel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/Alert.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/AlertRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert3/AlertRule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/ApiStatInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert3/ApiStatInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/ApplicationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert3/ApplicationContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert3/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert3/Notification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/NotificationEmergencyLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert3/NotificationEmergencyLevel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/handler/AlertHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert3/handler/AlertHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/handler/ErrorAlertHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert3/handler/ErrorAlertHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v3/handler/TpsAlertHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert3/handler/TpsAlertHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/Alert.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/AlertRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert4/AlertRule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/ApiStatInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert4/ApiStatInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/ApplicationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert4/ApplicationContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert4/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert4/Notification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/NotificationEmergencyLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert4/NotificationEmergencyLevel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/handler/AlertHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert4/handler/AlertHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/handler/ErrorAlertHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert4/handler/ErrorAlertHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/handler/TimeoutAlertHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert4/handler/TimeoutAlertHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/v4/handler/TpsAlertHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priciple/theory/bOCP/alert4/handler/TpsAlertHandler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,8 +34,8 @@
         <option value="spring-beans.schema" />
         <option value="Enum" />
         <option value="package.json" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -102,7 +66,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/oop/action/wallet/rich" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/priciple/theory/cLSP/transporter2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -126,18 +90,18 @@
       <recent name="opensourced.jdk.demo7" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\GitHub\design-pattern\src\main\java\priciple\theory\cLSP\transporter2" />
       <recent name="F:\GitHub\design-pattern\src\main\java\oop\action\wallet\rich" />
       <recent name="F:\GitHub\design-pattern\src\main\java\oop\theory\gCompositionBeforeInherit\demo3" />
       <recent name="F:\GitHub\design-pattern\target\classes" />
       <recent name="F:\GitHub\design-pattern\src\main\java\inaction\ratelimiter\ver2\rule" />
-      <recent name="F:\GitHub\design-pattern\src\main\java\opensourced\guava\demo4\deeplyimmutable" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="priciple.theory.cLSP.transporter2" />
       <recent name="oop.action.auth" />
       <recent name="oop.action.wallet.rich" />
       <recent name="oop.action.wallet.anemic" />
       <recent name="oop.theory.gCompositionBeforeInherit.demo1" />
-      <recent name="oop.theory.fProgramToAnInterface.action.v2" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Serialization">
@@ -272,7 +236,7 @@
       <workItem from="1595811789710" duration="31655000" />
       <workItem from="1595951524322" duration="577000" />
       <workItem from="1595982400674" duration="47849000" />
-      <workItem from="1596246983485" duration="35041000" />
+      <workItem from="1596246983485" duration="40796000" />
     </task>
     <servers />
   </component>
@@ -303,10 +267,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1596442714261">
+    <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1596509163746">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596442714261" />
+    <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596509163746" />
     <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1590820490210" />
     <state x="742" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1596441735564">
       <screen x="0" y="0" width="1920" height="1050" />
@@ -360,10 +324,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="296" height="234" key="ShowFilterAction_Filter_Popup/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1591712866273" />
-    <state x="614" y="203" width="675" height="655" key="StructurePopup" timestamp="1595566088852">
+    <state x="614" y="203" width="675" height="655" key="StructurePopup" timestamp="1596505776805">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="614" y="203" width="675" height="655" key="StructurePopup/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1595566088852" />
+    <state x="614" y="203" width="675" height="655" key="StructurePopup/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596505776805" />
     <state x="651" y="183" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593051791790">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -372,15 +336,15 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="417" y="204" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1595644808194" />
-    <state x="673" y="17" width="774" height="991" key="find.popup" timestamp="1596425978579">
+    <state x="673" y="17" width="774" height="991" key="find.popup" timestamp="1596506281655">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="673" y="17" width="774" height="991" key="find.popup/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596425978579" />
+    <state x="673" y="17" width="774" height="991" key="find.popup/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596506281655" />
     <state x="587" y="227" width="746" height="596" key="find.popup/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1590819796222" />
-    <state x="539" y="15" width="840" height="1034" key="search.everywhere.popup" timestamp="1596020011149">
+    <state x="539" y="15" width="840" height="1034" key="search.everywhere.popup" timestamp="1596506348267">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="539" y="15" width="840" height="1034" key="search.everywhere.popup/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596020011149" />
+    <state x="539" y="15" width="840" height="1034" key="search.everywhere.popup/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596506348267" />
     <state x="539" y="15" width="840" height="1034" key="search.everywhere.popup/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1590819947356" />
   </component>
   <component name="XDebuggerManager">
