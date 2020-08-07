@@ -83,11 +83,11 @@
       <recent name="F:\GitHub\design-pattern\src\main\resources\mapper" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="priciple.theory.gDRY.demo1" />
       <recent name="priciple.theory.eDIP.di.demo1" />
       <recent name="priciple.theory.dISP.config" />
       <recent name="oop.action.wallet.rich.demo2" />
       <recent name="oop.action.wallet.rich" />
-      <recent name="oop.action.wallet.anemic" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\GitHub\design-pattern\src\main\java\priciple\theory\dISP\config\viewer" />
@@ -97,11 +97,11 @@
       <recent name="F:\GitHub\design-pattern\target\classes" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="priciple.theory.gDRY.demo3" />
       <recent name="priciple.theory.eDIP.di.demo2" />
       <recent name="priciple.theory.dISP.config.viewer2" />
       <recent name="priciple.theory.dISP.config" />
       <recent name="priciple.theory.dISP.user" />
-      <recent name="priciple.theory.cLSP.transporter2" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Serialization">
@@ -239,6 +239,7 @@
       <workItem from="1596246983485" duration="53684000" />
       <workItem from="1596588176471" duration="12072000" />
       <workItem from="1596675657452" duration="7890000" />
+      <workItem from="1596767923146" duration="8049000" />
     </task>
     <servers />
   </component>
@@ -269,19 +270,19 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1596627146255">
+    <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1596785168457">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596627146255" />
+    <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596785168457" />
     <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1590820490210" />
     <state x="742" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1596441735564">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="742" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596441735564" />
-    <state x="658" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596503756314">
+    <state x="658" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596785022838">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="658" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596503756314" />
+    <state x="658" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596785022838" />
     <state x="627" y="218" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1592231088004">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -334,23 +335,27 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="614" y="203" width="675" height="655" key="StructurePopup/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596505776805" />
-    <state x="651" y="183" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593051791790">
+    <state x="651" y="183" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1596785262847">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="651" y="183" key="com.intellij.testIntegration.createTest.CreateTestDialog/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1593051791790" />
+    <state x="651" y="183" key="com.intellij.testIntegration.createTest.CreateTestDialog/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596785262847" />
     <state x="417" y="204" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1595644808194">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="417" y="204" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1595644808194" />
+    <state x="980" y="255" key="extract.method.dialog" timestamp="1596784387712">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="980" y="255" key="extract.method.dialog/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596784387712" />
     <state x="673" y="17" width="774" height="991" key="find.popup" timestamp="1596506281655">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="673" y="17" width="774" height="991" key="find.popup/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596506281655" />
     <state x="587" y="227" width="746" height="596" key="find.popup/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1590819796222" />
-    <state x="539" y="15" width="840" height="1034" key="search.everywhere.popup" timestamp="1596506348267">
+    <state x="539" y="15" width="840" height="1034" key="search.everywhere.popup" timestamp="1596784946435">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="539" y="15" width="840" height="1034" key="search.everywhere.popup/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596506348267" />
+    <state x="539" y="15" width="840" height="1034" key="search.everywhere.popup/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596784946435" />
     <state x="539" y="15" width="840" height="1034" key="search.everywhere.popup/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1590819947356" />
   </component>
   <component name="XDebuggerManager">
