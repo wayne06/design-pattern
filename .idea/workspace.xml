@@ -97,11 +97,11 @@
       <recent name="F:\GitHub\design-pattern\target\classes" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="priciple.theory.hLOD.crawl" />
       <recent name="priciple.theory.gDRY.demo3" />
       <recent name="priciple.theory.eDIP.di.demo2" />
       <recent name="priciple.theory.dISP.config.viewer2" />
       <recent name="priciple.theory.dISP.config" />
-      <recent name="priciple.theory.dISP.user" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Serialization">
@@ -239,7 +239,8 @@
       <workItem from="1596246983485" duration="53684000" />
       <workItem from="1596588176471" duration="12072000" />
       <workItem from="1596675657452" duration="7890000" />
-      <workItem from="1596767923146" duration="8049000" />
+      <workItem from="1596767923146" duration="9660000" />
+      <workItem from="1596851274246" duration="9910000" />
     </task>
     <servers />
   </component>
@@ -270,10 +271,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1596785168457">
+    <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1596855522580">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596785168457" />
+    <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1596855522580" />
     <state x="721" y="146" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1590820490210" />
     <state x="742" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1596441735564">
       <screen x="0" y="0" width="1920" height="1050" />
