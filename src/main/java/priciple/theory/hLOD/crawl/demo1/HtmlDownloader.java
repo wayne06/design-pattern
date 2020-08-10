@@ -1,5 +1,8 @@
-package priciple.theory.hLOD.crawl;
+package priciple.theory.hLOD.crawl.demo1;
 
+/**
+ * 通过 URL 获取网页
+ */
 public class HtmlDownloader {
 
     private NetworkTransporter transporter;
