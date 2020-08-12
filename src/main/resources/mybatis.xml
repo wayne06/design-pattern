@@ -5,7 +5,7 @@
 <configuration>
 
     <plugins>
-        <plugin interceptor="opensourced.mybatis.demo2.SqlCostTimeInterceptor">
+        <plugin interceptor="e.opensourced.mybatis.demo2.SqlCostTimeInterceptor">
             <property name="someProperty" value="100"/>
         </plugin>
     </plugins>
