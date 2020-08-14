@@ -3,6 +3,51 @@
   <component name="ChangeListManager">
     <list default="true" id="7730f398-31f0-4b95-84a0-b5a07c5c4502" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/b/priciple/inaction/point/Memo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/b/priciple/inaction/point/Memo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/idgenerator/ver0/IdGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/idgenerator/ver1/IdGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/idgenerator/ver1/LogTraceIdGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/idgenerator/ver1/RandomIdGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/idgenerator/ver2/IdGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/idgenerator/ver2/LogTraceIdGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/idgenerator/ver2/RandomIdGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/idgenerator/ver3/IdGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/idgenerator/ver3/LogTraceIdGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/idgenerator/ver3/RandomIdGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/idgenerator/ver3/RandomIdGeneratorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/idgenerator/ver4/IdGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/idgenerator/ver4/LogTraceIdGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/idgenerator/ver4/RandomIdGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/idgenerator/ver4/RandomIdGeneratorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/idgenerator/ver5/IdGenerationFailureException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/idgenerator/ver5/IdGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/idgenerator/ver5/LogTraceIdGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/idgenerator/ver5/RandomIdGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/idgenerator/ver5/RandomIdGeneratorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/metrics/ver1/Metrics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/metrics/ver1/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/metrics/ver2/Aggregator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/metrics/ver2/ConsoleReporter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/metrics/ver2/EmailReporter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/metrics/ver2/MetricsCollector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/metrics/ver2/MetricsStorage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/metrics/ver2/RedisConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/metrics/ver2/RedisMetricsStorage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/metrics/ver2/RequestInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/metrics/ver2/RequestStat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/metrics/ver3/Aggregator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/metrics/ver3/ConsoleReporter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/metrics/ver3/ConsoleViewer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/metrics/ver3/EmailReporter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/metrics/ver3/EmailViewer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/metrics/ver3/MetricsCollector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/metrics/ver3/MetricsStorage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/metrics/ver3/PerfCounterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/metrics/ver3/RedisConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/metrics/ver3/RedisMetricsStorage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/metrics/ver3/RequestInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/metrics/ver3/RequestStat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/f/inaction/metrics/ver3/StatViewer.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +111,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/priciple/theory/dISP/config/viewer" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/c/refactor/inaction" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -90,11 +135,11 @@
       <recent name="oop.action.wallet.rich.demo2" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\GitHub\design-pattern\src\main\java\c\refactor\inaction" />
+      <recent name="F:\GitHub\design-pattern\src\main\java\b\priciple\inaction\metrics" />
       <recent name="F:\GitHub\design-pattern\src\main\java\priciple\theory\dISP\config\viewer" />
       <recent name="F:\GitHub\design-pattern\src\main\java\priciple\theory\cLSP\transporter2" />
       <recent name="F:\GitHub\design-pattern\src\main\java\oop\action\wallet\rich" />
-      <recent name="F:\GitHub\design-pattern\src\main\java\oop\theory\gCompositionBeforeInherit\demo3" />
-      <recent name="F:\GitHub\design-pattern\target\classes" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="priciple.theory.hLOD.crawl" />
@@ -153,7 +198,8 @@
       <workItem from="1596767923146" duration="9660000" />
       <workItem from="1596851274246" duration="21709000" />
       <workItem from="1597107783032" duration="11158000" />
-      <workItem from="1597195435458" duration="17709000" />
+      <workItem from="1597195435458" duration="18347000" />
+      <workItem from="1597367398205" duration="6920000" />
     </task>
     <servers />
   </component>
@@ -270,10 +316,10 @@
     </state>
     <state x="673" y="17" width="774" height="991" key="find.popup/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1597046022698" />
     <state x="587" y="227" width="746" height="596" key="find.popup/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1590819796222" />
-    <state x="539" y="15" width="840" height="1034" key="search.everywhere.popup" timestamp="1597325898295">
+    <state x="539" y="15" width="840" height="1034" key="search.everywhere.popup" timestamp="1597371294807">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="539" y="15" width="840" height="1034" key="search.everywhere.popup/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1597325898295" />
+    <state x="539" y="15" width="840" height="1034" key="search.everywhere.popup/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1597371294807" />
     <state x="539" y="15" width="840" height="1034" key="search.everywhere.popup/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1590819947356" />
   </component>
   <component name="XDebuggerManager">
